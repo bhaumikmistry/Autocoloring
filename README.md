@@ -17,4 +17,7 @@ pattern, small outlined cartoon, or anyhting with complete boundries.
 The code is simple and there are example images to work with, which
 are to be stored in the same path or folder.
 
-This is a matlab verison, python version should be up soon.
+This is a matlab verison.
+
+The Pyhton version is the basic version which doesnt give any color choice. 
+The color range in python can be set manually.
